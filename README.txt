@@ -1,33 +1,10 @@
-Phantom by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+There are a plethora of scholastic opportunities in learning foreign languages for kids, but those usually stop at French or Spanish. There are many academic journals that prove learning a new language is easier the earlier you start and we believe this includes new programming languages. We thought, why not include Python? In a rapidly growing digital age, it is to the children’s greatest advantage to learn coding languages early on.
 
 
-This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-image tiles (of which you can have as many or as few as you like). Makes use of some
-SVG and animation techniques I've been experimenting with on that other project of mine
-you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+CodeOn is a revolutionary website designed to both spark young adult’s interest in bioinformatics, and teach them the basics of bioinformatics coding. Of all the programming languages, we decided to introduce students to Python for two main reasons. First, it is widely used in the field of Bioinformatics. Second, many sources rank Python the easiest programming language to start with. 
 
 
-Credits:
+We decided the design of CodeOn should be clean and simple in order to create an easy atmosphere for kids to stay focused in comparison to a busy site. We organized the lessons numerically and displayed them in a linear fashion. This seems to be the easiest structure for kids to follow and learn independently from. We take them through a crash course of sorts on basic genetics--the genome, DNA, RNA, proteins and the central dogma of biology. We then introduce them to a series of coding tutorials on how to transcribe, translate and get the reverse complement. We included a code editor for each coding lesson to allow the students to practice writing their own lines of code, and implement what they’ve previously been learning. 
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+CodeOn is still in beta. We have had minimal user testing from adults who have previous programming experience. Our goal is to have more user testing with a younger group that has never had any programming experience. Following them finishing the CodeOn lessons, we would give them a brief test, so we could understand how effective the tutorials were.
