@@ -2323,6 +2323,13 @@
 
 /* Image */
 
+	img {
+    display: block; 
+    margin: auto;
+    /*width: 40%; */
+	} 
+
+
 	.image {
 		border-radius: 4px;
 		border: 0;
